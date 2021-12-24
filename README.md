@@ -7,7 +7,7 @@ Overview of Freqtrade utillity commandfs
 Create new user directory
 
 ```
-freqtrade create-userdir --userdir /opt/freqtrade
+freqtrade create-userdir --userdir /opt/freqtrade/user_data
 ```
 
 Create new config
