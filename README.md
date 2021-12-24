@@ -105,5 +105,5 @@ freqtrade hyperopt-list --best --no-details
 Show hyperopt results from a hyperopt fila and export to csv
 
 ```
-freqtrade show-trades --db-url sqlite:///tradesv3.sqlite --trade-ids 2 3 --print-json
+freqtrade show-trades --db-url sqlite:///user_data/tradesv3.sqlite --trade-ids 2 3 --print-json
 ```
