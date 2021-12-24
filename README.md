@@ -19,7 +19,7 @@ freqtrade new-config -c /opt/freqtrade/config.json
 Create new strategy
 
 ```
-freqtrade new-strategy --userdir /opt/freqtrade/user_data -s MyNewStrat.py --template [full/minimal/advanced]
+freqtrade new-strategy --userdir /opt/freqtrade/user_data -s MyNewStrat --template [full/minimal/advanced]
 ```
 
 ## Inventory commands
