@@ -7,19 +7,19 @@ Overview of Freqtrade utillity commandfs
 Create new user directory
 
 ```
-freqtrade create-userdir --userdir /opt/user_data
+freqtrade create-userdir --userdir /opt/freqtrade
 ```
 
 Create new config
 
 ```
-freqtrade new-config -c /opt/user_data/config.json
+freqtrade new-config -c /opt/freqtrade/config.json
 ```
 
 Create new strategy
 
 ```
-freqtrade new-strategy --userdir /opt/user_data/ -s MyNewStrat.py –template full/minimal/advanced
+freqtrade new-strategy --userdir /opt/freqtrade/user_data -s MyNewStrat.py --template [full/minimal/advanced]
 ```
 
 ## Inventory commands
