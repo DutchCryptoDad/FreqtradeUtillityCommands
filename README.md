@@ -102,7 +102,7 @@ Show best recent hyperopt result without details
 freqtrade hyperopt-list --best --no-details
 ```
 
-Show hyperopt results from a hyperopt fila and export to csv
+Show your trades from your trading database in detailed json format
 
 ```
 freqtrade show-trades --db-url sqlite:///user_data/tradesv3.sqlite --trade-ids 2 3 --print-json
