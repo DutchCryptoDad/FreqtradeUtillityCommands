@@ -1,5 +1,5 @@
 # FreqtradeUtillityCommands
-Overview of Freqtrade utillity commandfs
+Overview of Freqtrade utillity commands
 
 
 ## Create commands
